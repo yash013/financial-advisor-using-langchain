@@ -1,6 +1,8 @@
 # Financial Advisory Bot 📚💸
 
 This project is a financial advisory bot built with the open-source LLM Mistral, LangChain, Streamlit, and Weaviate vector database. It provides users with financial advice and insights.
+![myfinbotss](https://github.com/yash013/financial-advisor-using-langchain/assets/75071915/9df0704b-9773-4f21-96c0-7b4a1072a3b0)
+
 
 ## Prerequisites
 
