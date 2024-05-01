@@ -1,0 +1,6 @@
+.env
+venv
+
+__pycache__
+
+res/mistral-7b-openorca.Q6_K.gguf
