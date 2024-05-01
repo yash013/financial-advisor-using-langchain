@@ -18,7 +18,7 @@ Helpful answer:
 INP_VARS = ['context', 'question']
 CHAIN_TYPE = "stuff"
 SEARCH_KWARGS = {'k': 2}
-# MODEL_CKPT = "res/mistral-7b-openorca.Q6_K.gguf"
+MODEL_CKPT = "res/mistral-7b-openorca.Q6_K.gguf"
 MODEL_TYPE = "llama"
 MAX_NEW_TOKENS = 750
 TEMPERATURE = 0.3
