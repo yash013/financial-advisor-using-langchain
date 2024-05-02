@@ -35,3 +35,6 @@ Run the following command in your terminal:
 ```bash
 streamlit run app.py
 ```
+
+## Credits
+@Vasanthengineer4949
